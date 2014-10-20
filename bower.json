@@ -1,0 +1,19 @@
+{
+  "name": "whenjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/miukki/whenjs",
+  "authors": [
+    "Anja Ishmukhametova (miukki) <miukki@gmail.com>"
+  ],
+  "keywords": [
+    "when.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
